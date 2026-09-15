@@ -10,6 +10,8 @@ regression. This was part of assignment 1 for BERN02 - Lund University
 - `pollution_cleaneddata.csv` - Input dataset
 - `requirements.txt` - Python dependencies
 
+## Date
+September 2026
 
 ## Requirements
 
